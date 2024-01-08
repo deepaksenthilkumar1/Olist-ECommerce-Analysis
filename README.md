@@ -30,6 +30,11 @@ This dashboard is a work in progress, and improvements and additional features a
 
 The dashboard is powered by the Olist e-commerce dataset. The data is sourced from [Olist's public dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
+## Screenshots
+![image](https://github.com/deepaksenthilkumar1/Olist-ECommerce-Analysis/assets/154908719/fd699521-0970-4317-b000-d3fadef241e8)
+
+![image](https://github.com/deepaksenthilkumar1/Olist-ECommerce-Analysis/assets/154908719/4c70824c-3adc-46ce-b9b4-a63323f582d7)
+
 
 ## Connect with Me
 
